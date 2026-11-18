@@ -1,0 +1,88 @@
+MIT License
+
+Copyright (c) 2026 Roger Cooperman; A.E. Petrunina V.V.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Exercise W1 validation run
+Python 3.12.14
+numpy 2.3.5
+scipy 1.17.0
+sympy 1.14.0
+
+test_corollary_14_casimir_floor_for_fundamental_weights (validate_heat_kernel.HeatKernelChecks.test_corollary_14_casimir_floor_for_fundamental_weights) ... ok
+test_corollary_14_cylinder_eigenvalue_from_haar_integral (validate_heat_kernel.HeatKernelChecks.test_corollary_14_cylinder_eigenvalue_from_haar_integral) ... ok
+test_corollary_14_planar_string_tension_from_character_expectation (validate_heat_kernel.HeatKernelChecks.test_corollary_14_planar_string_tension_from_character_expectation) ... ok
+test_corollary_14_printed_cylinder_benchmark_and_fixed_link_control (validate_heat_kernel.HeatKernelChecks.test_corollary_14_printed_cylinder_benchmark_and_fixed_link_control) ... ok
+test_theorem_13_four_plaquettes_join (validate_heat_kernel.HeatKernelChecks.test_theorem_13_four_plaquettes_join) ... ok
+test_theorem_13_haar_normalization_and_character_orthogonality (validate_heat_kernel.HeatKernelChecks.test_theorem_13_haar_normalization_and_character_orthogonality) ... ok
+test_theorem_13_unequal_time_convolution_at_noncentral_elements (validate_heat_kernel.HeatKernelChecks.test_theorem_13_unequal_time_convolution_at_noncentral_elements) ... ok
+test_proposition_16_same_metric_and_bounded_density (validate_hierarchy.HierarchyChecks.test_proposition_16_same_metric_and_bounded_density) ... ok
+test_theorem_15_exact_group_block_of_sixteen (validate_hierarchy.HierarchyChecks.test_theorem_15_exact_group_block_of_sixteen) ... ok
+test_theorem_15_full_rate_one_heat_bath_spectrum (validate_hierarchy.HierarchyChecks.test_theorem_15_full_rate_one_heat_bath_spectrum) ... ok
+test_theorem_15_su2_haar_invariance_under_left_and_right_products (validate_hierarchy.HierarchyChecks.test_theorem_15_su2_haar_invariance_under_left_and_right_products) ... ok
+test_corollary_12_integral_majorant (validate_large_fields.LargeFieldChecks.test_corollary_12_integral_majorant) ... ok
+test_lemma_09_cutoff_exponents (validate_large_fields.LargeFieldChecks.test_lemma_09_cutoff_exponents) ... ok
+test_lemma_10_gaussian_exponential_moment (validate_large_fields.LargeFieldChecks.test_lemma_10_gaussian_exponential_moment) ... ok
+test_lemma_10_gaussian_tail_against_chi_square (validate_large_fields.LargeFieldChecks.test_lemma_10_gaussian_tail_against_chi_square) ... ok
+test_proposition_11_stationarity_and_spectrum (validate_large_fields.LargeFieldChecks.test_proposition_11_stationarity_and_spectrum) ... ok
+test_lemma_17_eliminated_mode_can_set_the_gap (validate_lifting.LiftingChecks.test_lemma_17_eliminated_mode_can_set_the_gap) ... ok
+test_lemma_17_exact_variance_and_orthogonality (validate_lifting.LiftingChecks.test_lemma_17_exact_variance_and_orthogonality) ... ok
+test_open_loss_criterion_quartic_domination (validate_lifting.LiftingChecks.test_open_loss_criterion_quartic_domination) ... ok
+test_open_loss_criterion_weak_product_and_intermediate_steps (validate_lifting.LiftingChecks.test_open_loss_criterion_weak_product_and_intermediate_steps) ... ok
+test_theorem_18_forward_comparison_is_insufficient (validate_lifting.LiftingChecks.test_theorem_18_forward_comparison_is_insufficient) ... ok
+test_theorem_18_gap_lifting_in_common_physical_units (validate_lifting.LiftingChecks.test_theorem_18_gap_lifting_in_common_physical_units) ... ok
+test_corollary_04_quadratic_lower_loss (validate_products.ProductChecks.test_corollary_04_quadratic_lower_loss) ... ok
+test_lemma_01_exact_telescoping_examples (validate_products.ProductChecks.test_lemma_01_exact_telescoping_examples) ... ok
+test_lemma_01_log_bounds (validate_products.ProductChecks.test_lemma_01_log_bounds) ... ok
+test_proposition_02_single_bad_step (validate_products.ProductChecks.test_proposition_02_single_bad_step) ... ok
+test_proposition_02_uniform_bound_and_converse (validate_products.ProductChecks.test_proposition_02_uniform_bound_and_converse) ... ok
+test_theorem_03_running_remainder_checkpoint (validate_products.ProductChecks.test_theorem_03_running_remainder_checkpoint) ... ok
+test_theorem_03_superquadratic_sum_and_product (validate_products.ProductChecks.test_theorem_03_superquadratic_sum_and_product) ... ok
+test_proposition_05_symbolic_coupling_conversion (validate_running.RunningChecks.test_proposition_05_symbolic_coupling_conversion) ... ok
+test_table_1_rows_by_inversion_and_ode (validate_running.RunningChecks.test_table_1_rows_by_inversion_and_ode) ... ok
+test_table_1_symbolic_primitive (validate_running.RunningChecks.test_table_1_symbolic_primitive) ... ok
+test_table_2_rows_and_quartic_floor (validate_running.RunningChecks.test_table_2_rows_and_quartic_floor) ... ok
+test_corollary_07_quartic_comparison_along_running_family (validate_spectral.SpectralChecks.test_corollary_07_quartic_comparison_along_running_family) ... ok
+test_lemma_06_form_and_variance_comparison (validate_spectral.SpectralChecks.test_lemma_06_form_and_variance_comparison) ... ok
+test_proposition_08_same_action_different_spectral_gap (validate_spectral.SpectralChecks.test_proposition_08_same_action_different_spectral_gap) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.389s
+
+OK
+
+Table 1 of W1 - truncated two-loop extrapolation to g^2 = 6
+N    g0^2       k_star   k_last   fraction     sum(g^2)     sum(g^4)
+2    0.5     12.938633       12   0.938633     14.59513     23.01361
+2    1.0      5.571000        5   0.571000     11.38926     26.86186
+2    1.5      3.206992        3   0.206992     11.01592     37.16150
+3    0.5      8.271160        8   0.271160     11.67822     25.24500
+3    1.0      3.482067        3   0.482067      7.34395     16.51622
+3    1.5      1.971561        1   0.971561      3.81641      7.61577
+
+Table 2 of W1 - exact one-loop inputs with illustrative losses
+     K     sum(g^2)     sum(g^4)           P2         P4
+    10      1.66194      0.25205    1.90341e-02   0.596781
+   100      9.01151      0.89836    1.78182e-09   0.161816
+  1000     24.25482      1.25082    4.91539e-23   0.079901
+ 10000     41.81720      1.30242    2.46605e-38   0.072065
+
+The four-dimensional Wilson spectral estimate and infrared endpoint remain open.
