@@ -2,6 +2,11 @@
 
 This suite accompanies *Summable Losses Under Renormalization and Gate G4 in Lattice Yang–Mills* by Roger Cooperman and A.E. Petrunina V.V., XISOSIS, 18 November 2026. The source is the 13-page PDF named W1_Summable_Losses_and_Gate_G4_in_Lattice_Yang-Mills.pdf. Its SHA-256 is b14b482a498e35ba0539e740a09e5215756fc4d3dfa99eb586c532fad2518268.
 
+## Repository and DOI
+
+- [GitHub repository](https://github.com/teknoquants/SUMMABLE-LOSSES-UNDER-RENORMALIZATION-AND-GATE-4-IN-LATTICE-YANG-MILLS)
+- [DOI 10.5281/zenodo.24341493](https://doi.org/10.5281/zenodo.24341493)
+
 ## Run the checks
 
 Extract the ZIP, open a terminal in the extracted folder, and use Python 3.11 or later.
